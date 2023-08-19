@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sampatkumar
-- 👀 I’m interested in Fullstack Web Development
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning Web Development related courses
 - 📫 Reach me by mailing to sampatkuamr.mca17@gmail.com
 
